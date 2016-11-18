@@ -3,6 +3,8 @@
 
 int main()
 {
+look
+inspire 
 
 	ofstream of("test.txt");
 	Vector b(2, 0);
